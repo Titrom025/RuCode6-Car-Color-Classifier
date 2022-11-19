@@ -1,0 +1,8 @@
+*.pt
+*.jpg
+*.idea
+__pycache__
+car_color_dataset
+*runs*
+.DS_Store
+*txt

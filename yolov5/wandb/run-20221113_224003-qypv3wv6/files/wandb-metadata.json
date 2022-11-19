@@ -1,0 +1,31 @@
+{
+    "os": "macOS-12.6-arm64-arm-64bit",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-11-13T15:40:05.215708",
+    "startedAt": "2022-11-13T15:40:03.182792",
+    "docker": null,
+    "cpu_count": 10,
+    "cuda": null,
+    "args": [
+        "--model",
+        "yolov5m-cls.pt",
+        "--data",
+        "car_dataset",
+        "--epochs",
+        "25",
+        "--img",
+        "224"
+    ],
+    "state": "running",
+    "program": "classify/train.py",
+    "codePath": "classify/train.py",
+    "git": {
+        "remote": "https://github.com/ultralytics/yolov5",
+        "commit": "f33718f36f756301b91da6207f1d02f30b3916e1"
+    },
+    "email": "titrom25@mail.ru",
+    "root": "/Users/titrom/RuCode/yolov5",
+    "host": "MacBook-Pro-Roman-2.local",
+    "username": "titrom",
+    "executable": "/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/bin/python"
+}

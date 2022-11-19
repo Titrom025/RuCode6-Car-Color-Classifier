@@ -1,0 +1,4 @@
+name: yolo5
+channels:
+  - defaults
+prefix: /Users/titrom/miniconda3/envs/yolo5

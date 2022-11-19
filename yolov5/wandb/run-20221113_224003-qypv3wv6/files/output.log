@@ -1,0 +1,100 @@
+[34m[1malbumentations: [39m[22m⚠️ not found, install with `pip install albumentations` (recommended)
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+Downloading https://github.com/ultralytics/yolov5/releases/download/v6.2/yolov5m-cls.pt to yolov5m-cls.pt...
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: dlopen(/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so, 0x0006): Symbol not found: (__ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIxEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE)
+  Referenced from: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torchvision/image.so'
+  Expected in: '/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/lib/libtorch_cpu.dylib'
+  warn(f"Failed to load image Python extension: {e}")
+ 23%|████████████████████████████████▏                                                                                                        | 5.84M/24.9M [00:01<00:03, 6.18MB/s][34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+ 26%|███████████████████████████████████▌                                                                                                     | 6.46M/24.9M [00:01<00:03, 5.93MB/s][34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 24.9M/24.9M [00:05<00:00, 4.60MB/s]
+Model summary: 212 layers, 11690731 parameters, 11690731 gradients, 30.9 GFLOPs
+[34m[1moptimizer:[39m[22m Adam(lr=0.001) with parameter groups 46 weight(decay=0.0), 47 weight(decay=5e-05), 47 bias
+Image sizes 224 train, 224 test
+Using 8 dataloader workers
+Logging results to [1mruns/train-cls/exp
+Starting yolov5m-cls.pt training on car_dataset dataset with 11 classes for 25 epochs...
+     Epoch   GPU_mem  train_loss   test_loss    top1_acc    top5_acc
+
+
+
+
+
+
+
+
+

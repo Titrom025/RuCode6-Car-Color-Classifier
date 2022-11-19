@@ -1,0 +1,42 @@
+
+[34m[1malbumentations: [39m[22m⚠️ not found, install with `pip install albumentations` (recommended)
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+Model summary: 212 layers, 11690731 parameters, 11690731 gradients, 30.9 GFLOPs
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1mwandb[39m[22m: Currently logged in as: [33mtitrom[39m ([33measydata_titrom[39m). Use [1m`wandb login --relogin`[22m to force relogin
+[34m[1moptimizer:[39m[22m Adam(lr=0.001) with parameter groups 46 weight(decay=0.0), 47 weight(decay=5e-05), 47 bias
+/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/cuda/amp/grad_scaler.py:118: UserWarning: torch.cuda.amp.GradScaler is enabled, but CUDA is not available.  Disabling.
+  warnings.warn("torch.cuda.amp.GradScaler is enabled, but CUDA is not available.  Disabling.")
+Image sizes 224 train, 224 test
+Using 8 dataloader workers
+Logging results to [1mruns/train-cls/exp3
+Starting yolov5m-cls.pt training on car_dataset dataset with 11 classes for 25 epochs...
+     Epoch   GPU_mem  train_loss   test_loss    top1_acc    top5_acc
+  0%|          | 0/125 [00:00<?, ?it/s]                                                                                                                                            /opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/nn/functional.py:3026: UserWarning: The operator 'aten::nonzero' is not currently supported on the MPS backend and will fall back to run on the CPU. This may have performance implications. (Triggered internally at /Users/runner/work/pytorch/pytorch/pytorch/aten/src/ATen/mps/MPSFallback.mm:11.)
+  return torch._C._nn.cross_entropy_loss(input, target, weight, _Reduction.get_enum(reduction), ignore_index, label_smoothing)
+  0%|          | 0/125 [00:03<?, ?it/s]
+Traceback (most recent call last):
+  File "classify/train.py", line 331, in <module>
+    main(opt)
+  File "classify/train.py", line 317, in main
+    train(opt, device)
+  File "classify/train.py", line 186, in train
+    scaler.scale(loss).backward()
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/_tensor.py", line 487, in backward
+    torch.autograd.backward(
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/yolo5/lib/python3.8/site-packages/torch/autograd/__init__.py", line 197, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+TypeError: Cannot convert a MPS Tensor to float64 dtype as the MPS framework doesn't support float64. Please use float32 instead.

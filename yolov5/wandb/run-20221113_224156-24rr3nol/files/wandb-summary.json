@@ -1,0 +1,1 @@
+{"Train Examples": {"_type": "images/separated", "width": 1482, "height": 1201, "format": "jpg", "count": 1, "filenames": ["media/images/Train Examples_0_1816af3c9a068f325bb4.jpg"], "captions": ["train_images.jpg"]}, "_timestamp": 1668354141, "_runtime": 25, "_step": 0, "_wandb": {"runtime": 31}}
